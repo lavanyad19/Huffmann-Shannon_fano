@@ -1,6 +1,7 @@
 ## Name: Lavanya D
 ## Reg: 212224060133
-# Huffman-Shannon_fano
+# Exp no: 2
+# Exp name: Simulation and Verification of Source Coding theorem(Huffman & Shannon-Fano)
 # Aim:
 Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. 
 Apply the Huffman and Shannon-Fano to this source. 
